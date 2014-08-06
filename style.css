@@ -1,0 +1,5 @@
+ul{border: 1px solid black;width: 200px;min-height: 100px;margin:0;padding:20px 0 0 0;}
+ul li{list-style:none;margin-left:20px;}
+ul li span{float:right;margin-right:20px;}
+.cart-wrapper{float: left;margin-left: 20px;}
+.products-wrapper{float: left;}
